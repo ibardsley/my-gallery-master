@@ -185,6 +185,7 @@ h4 {
     line-height: 17px;
     text-align: center;
     color: #B9BDCF;
+    padding-bottom: 20px;
   }
 
   @media screen and (max-width: 1000px) {
@@ -205,13 +206,23 @@ h4 {
     }
 
     .image {
-        height: 175px;
+        height: 150px;
     }
 
     .profile {
         width: 108px;
         height: 108px;
     }
+
+      h3 {
+        font-size: 14px;
+        line-height: 17px;
+      }
+
+      .location {
+        font-size: 10px;
+        line-height: 12px;
+      }
 
     .stats {
         width: 280px;
