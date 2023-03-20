@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://stately-travesseiro-0647aa.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ibardsley/my-gallery-master">
       Solution
     </a>
     <span> | </span>
@@ -40,18 +40,17 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? https://stately-travesseiro-0647aa.netlify.app/
+- What was your experience? This was the first project where I really felt I had a goo grasp on exactly how I wanted to complete the features and what code I would use.
+- What have you learned/improved? I learned some better skills with CSS grid to be able to make the pictures more responsive as the page shrinks or get bigger.
+- Your wisdom? :) Keep practicing and it will get easier and easier it just takes time.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS Flex and Grid
 
 ## Features
 
@@ -65,11 +64,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- I used the W3 schools article about css grid items to better understand how to make the pictures extend across multiple rows or columns. I also used them to have the picture expand or retract based on the height and width of the grid.
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@ibardsley](https://github.com/ibardsley)
+
